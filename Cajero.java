@@ -8,7 +8,7 @@ public class Cajero {
  
    int saldo = 3000, retirar, deposito;
         Scanner scanner = new Scanner(System.in);
-        while(true)
+
         {
             System.out.println("BIENVENIDO AL CAJERO AUTOMATICO\n ");
             System.out.println("-----------------------------------");
